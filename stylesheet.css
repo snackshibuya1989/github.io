@@ -1,0 +1,55 @@
+body {
+  background-color:aquamarine;
+}
+/*　ヘッダーの設定(横並び・点なし・空白)*/
+.main {
+  background-image:url("file:///home/chronos/u-7f44b8bd914fb4cd5370aef9e9f63b13870dbacd/MyFiles/Downloads/TOP%E7%94%BB.PNG");
+
+  background-position:center;
+　background-repeat: no-repeat;
+}
+.header-logo {
+  background-color:pink;
+  font-size:15px;
+  font-weight:bold;
+  float:left;
+  padding-top:10px;
+  padding-left:10px;
+}
+li {
+  color: dimgray;
+  font-size:15px;
+  list-style:none;
+  float:left;
+  padding-top:20px;
+  padding-left:40px;
+}
+/*　タイトル部分　*/
+h1 {
+  color: deeppink;
+  font-size: 90px
+}
+h2 {
+  color: whitesmoke;
+  font-size: 40px;
+  line-height:2px;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 70px;
+}
+.footer-logo {
+  font-size:20px;
+  font-weight:bold;
+  float:left;
+  padding-top:10px;
+  padding-left:10px;
+}
+li {
+  list-style:none;
+  float:left;
+  padding-top:20px;
+  padding-left:40px;
+  padding-bottom:10px;
+}
