@@ -4,8 +4,6 @@ body {
 /*　ヘッダーの設定(横並び・点なし・空白)*/
 .main {
   background-image:url("https://github.com/snackshibuya1989/github.io/blob/main/TOP%E7%94%BB.png?raw=true");
-  background-color:#2e2e2e;
-  opacity:0.5;
 }
 .header-logo {
   background-color:pink;
